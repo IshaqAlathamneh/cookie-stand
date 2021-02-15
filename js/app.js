@@ -51,8 +51,8 @@ let seattle = {
             a = Math.floor(getRandomInt(this.minHoCu, this.maxHoCu + 1) * this.avgCookieCu);
             
             if (i < hourArr.length - 1 ){ this.cookiePerHo.push(a);
-           liEl.textContent = `${hourArr[i]} ${this.cookiePerHo[i]} cookies.` 
-        } else if (i === hourArr.length - 1){
+           liEl.textContent = `${hourArr[i]} ${this.cookiePerHo[i]} cookies.`
+        }else if (i === hourArr.length - 1){
             liEl.textContent = `${hourArr[i]} ${b} cookies.`}
       }
       
