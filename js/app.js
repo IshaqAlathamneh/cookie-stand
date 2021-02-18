@@ -104,11 +104,11 @@ tableF()
   let storeLocation = event.target.locfac.value;
 //   console.log(event.target.locfac.value)
   let maxCH = event.target.maxCH.value;
-  parseInt(maxCH)
+  maxCH = parseInt(maxCH)
   let minCH = event.target.minCH.value;
-  parseInt(minCH)
+  minCH = parseInt(minCH)
   let avgCC = event.target.avgCC.value;
-  parseFloat(avgCC)
+  avgCC = parseFloat(avgCC)
   
   let newStore = new Stores(storeLocation, maxCH, minCH,avgCC);
   tableEl.deleteRow(countRaw);
@@ -116,3 +116,5 @@ tableF()
   newStore.render()
   tableF()
 } 
+
+

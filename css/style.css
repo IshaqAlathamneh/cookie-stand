@@ -11,6 +11,107 @@ table td {
     margin: 0px;
 }
 table {
+    position: relative;
     margin-left: auto;
     margin-right: auto;
+    background-color: #cccccc;
+    bottom: 1300px;
+}
+body { 
+    /* background-color: rebeccapurple; */
+    background-image: url("/images/fish.jpg");
+}
+form {
+    width: 960px;
+    margin: 0 auto;
+    background-image: url("/images/chinook.jpg") ;
+}
+label {
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+#locfac {
+    margin: 0 auto;
+}
+header {
+    width: 960px;
+    margin: 0 auto;
+}
+header img {
+    width: 200px;
+    background-color: #eeeeee;
+}
+li {
+    position: relative;
+    display: inline-block;
+    margin-left: 250px;
+    bottom: 60px;
+    background-color: blueviolet;
+}
+li ul {
+    width: 960px;
+    margin: 0 auto;
+}
+a {
+    text-decoration: none;
+    font-size: xx-large;
+    color: rgb(255, 0, 55);
+}
+main {
+    width: 960px;
+    margin: 0 auto;
+}
+main img {
+    width: 400px;
+    margin-left: 280px;
+    /* right: 300px; */
+}
+main p {
+    display: inline;
+    padding: 0px;
+    font-size: xx-large;
+    margin-left: 350px;
+    background-color: whitesmoke;
+}
+main div {
+    position: relative;
+    top: 270px;
+    
+}
+.one {
+    background-color: #85603f;
+}
+.two {
+    background-color: #9e7540;
+}
+.three {
+    background-color: #bd9354;
+}
+footer {
+    height: 200px;
+    background-color: #e3d18a;
+    clear: both;
+}
+h3 { position: relative;
+    width: 100%;
+    text-align: center;
+    top: 70px;
+    font-size: xx-large;
+}
+header h1{
+    position: relative;
+    display: inline-block;
+    bottom: 20px;
+    background-color: yellowgreen;
+    left: 150px;
+}
+#int {
+    position: relative;
+    background-color: rgb(180, 80, 80);
+    display: inline;
+    width: 100%;
+}
+#n {
+    bottom: 280px;
+    width: 80%;
 }
