@@ -18,13 +18,13 @@ table {
     bottom: 1100px;
 }
 body { 
-    background-image: url("/images/fish.jpg");
+    background-image: url("/a.jpg");
 }
 form {
     position: relative;
     width: 960px;
     margin: 0 auto;
-    background-image: url("/images/chinook.jpg");
+    background-image: url("/b.jpg");
 }
 label {
     color: rgb(255, 255, 255);
