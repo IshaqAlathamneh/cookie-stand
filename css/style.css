@@ -18,14 +18,14 @@ table {
     bottom: 1100px;
 }
 body { 
-    background-image: url("https://raw.githubusercontent.com/IshaqAlathamneh/cookie-stand/main/a.jpg");
+    background-image: url("https://raw.githubusercontent.com/LTUC/amman-201d14/main/class-08/lab-b/assets/fish.jpg");
 }
 form {
     position: relative;
     width: 960px;
     margin: 0 auto;
     /* sadasfasfd */
-    background-image: url("https://raw.githubusercontent.com/IshaqAlathamneh/cookie-stand/main/b.jpg");
+    background-image: url("https://raw.githubusercontent.com/LTUC/amman-201d14/main/class-08/lab-b/assets/chinook.jpg");
 }
 label {
     color: rgb(255, 255, 255);
@@ -86,6 +86,9 @@ main div {
     background-color: #9e7540;
 }
 .three {
+    background-color: #bd9354;
+}
+.four {
     background-color: #bd9354;
 }
 footer {
