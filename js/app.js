@@ -1,8 +1,9 @@
-'use stricket';
-let mainEl = document.getElementById('the main')
-let tableEl = document.createElement('table')
+'use stricket'
+
+let mainEl = document.getElementById('the main');
+let tableEl = document.createElement('table');
 let countRaw=1;
-mainEl.appendChild(tableEl)
+mainEl.appendChild(tableEl);
 let tableH = function(){
     let tr = document.createElement('tr')
     tableEl.appendChild(tr)
