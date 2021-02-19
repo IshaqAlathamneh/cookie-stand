@@ -19,13 +19,13 @@ table {
 }
 body { 
     /* background-color: rebeccapurple; */
-    background-image: url("images/fish.jpg");
+    background-image: url("/mnt/c/Users/User/ASAC/cookie-stand/images/fish.jpg");
 }
 form {
     position: relative;
     width: 960px;
     margin: 0 auto;
-    background-image: url("images/chinook.jpg");
+    background-image: url("/mnt/c/Users/User/ASAC/cookie-stand/images/chinook.jpg");
 }
 label {
     color: rgb(255, 255, 255);
