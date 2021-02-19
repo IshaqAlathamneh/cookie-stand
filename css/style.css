@@ -18,13 +18,13 @@ table {
     bottom: 1100px;
 }
 body { 
-    background-image: url("/a.jpg");
+    background-image: url("https://raw.githubusercontent.com/IshaqAlathamneh/cookie-stand/main/a.jpg");
 }
 form {
     position: relative;
     width: 960px;
     margin: 0 auto;
-    background-image: url("/b.jpg");
+    background-image: url("https://raw.githubusercontent.com/IshaqAlathamneh/cookie-stand/main/b.jpg");
 }
 label {
     color: rgb(255, 255, 255);
