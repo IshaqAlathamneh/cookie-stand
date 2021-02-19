@@ -98,7 +98,7 @@ function getRandomInt(min, max) {
 } 
 tableF()
  
-  let stores = document.getElementById('my stores')
+  let stores = document.getElementById('mystores')
   stores.addEventListener('submit',storesCreator)
   function storesCreator(event){
   event.preventDefault()
